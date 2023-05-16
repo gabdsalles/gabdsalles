@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, eu sou o Gabriel Salles! 👋
 
-<!--
-**gabdsalles/gabdsalles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LukasKMH&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LukasKMH&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+## ⚡ Tecnologias que utilizo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c++,dart" />
+  </a>
+</p>
